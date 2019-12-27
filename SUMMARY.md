@@ -9,4 +9,8 @@
 ## DATABASE 2
 
 * [1. Database의 목적](database-2/1.-database.md)
+* [2. MySQL 설치](2.-mysql.md)
+* [3. MySQL의 구조](3.-mysql.md)
+* [4. MySQL 서버 접속](4.-mysql.md)
+* [5. MySQL 스키마 \(Schema\)의 사용](5.-mysql-schema.md)
 

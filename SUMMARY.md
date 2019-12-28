@@ -15,5 +15,6 @@
 * [5. MySQL 스키마 \(Schema\)의 사용](5.-mysql-schema.md)
 * [6. SQL과 테이블 구조](6.-sql.md)
 * [7. MySQL 테이블의 생성](7.-mysql.md)
-* [8. MySQL 의 CRUD](8.-mysql-crud.md)
+* [8. MySQL의 CRUD](8.-mysql-crud.md)
+* [9. SQL의 INSERT 구문](9.-sql-insert.md)
 
